@@ -159,7 +159,7 @@ which will result in HTML similar to:
 ##### Target Attribute
 
 ```markdown
-[Link in new Tab](../some-page?target=_blank)
+[Link in new Tab](../some-page&target=_blank)
 ```
 
 which will result in HTML similar to:
@@ -171,7 +171,7 @@ which will result in HTML similar to:
 ##### Attribute Combinations
 
 ```markdown
-[Combinations of Attributes](../some-page?target=_blank&classes=button)
+[Combinations of Attributes](../some-page&target=_blank&classes=button)
 ```
 
 which will result in HTML similar to:
